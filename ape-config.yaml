@@ -1,0 +1,11 @@
+name: narok
+plugins:
+  - solidity
+  - hardhat
+  - arbitrum
+contracts_folder: contracts
+dependencies: []
+solidity:
+  version: "0.8.25"
+  import_remapping:
+    - "@openzeppelin/=lib/openzeppelin-contracts/"
