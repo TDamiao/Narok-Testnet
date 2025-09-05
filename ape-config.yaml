@@ -1,4 +1,4 @@
-name: narok
+name: narok-multi
 plugins:
   - solidity
   - hardhat
